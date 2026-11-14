@@ -1,0 +1,535 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4809
+>>
+stream
+0.200025 w
+0 G
+0.06 0.36 0.36 rg
+0. 792. 612. -8. re
+f
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.067 0.11 0.11 rg
+48. 740. Td
+(EMR Pulse — Practice Operations Diagnostic) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.29 0.349 0.349 rg
+48. 722. Td
+(Generated November 14, 2026  |  Vendor-Neutral Assessment  |  No Patient Data \(Zero PHI\)) Tj
+ET
+0.89 0.91 0.91 RG
+48. 706. m
+564. 706. l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.361 0.357 rg
+48. 684. Td
+(OPERATIONAL INPUTS) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+48. 669. Td
+(Claim denial discovery lag:) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+223. 669. Td
+(1–2 weeks) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+48. 655. Td
+(After-hours charting \(hrs/wk\):) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+223. 655. Td
+(0–2) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+48. 641. Td
+(Admin / billing staff:) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+223. 641. Td
+(1–2) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+48. 627. Td
+(Team comfort with AI tools:) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+223. 627. Td
+(Not comfortable) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+48. 613. Td
+(Primary EMR transition concern:) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+223. 613. Td
+(Cost) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+48. 599. Td
+(Current EMR operating model:) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+223. 599. Td
+(Record only) Tj
+ET
+0.89 0.91 0.91 RG
+48. 575. m
+564. 575. l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.361 0.357 rg
+48. 555. Td
+(DIAGNOSTIC BRIEF) Tj
+ET
+BT
+/F1 10.5 Tf
+12.0749999999999993 TL
+0.067 0.11 0.11 rg
+48. 540. Td
+(Your clinical documentation burden is well-controlled, but your revenue cycle is exposed. A 1–2 week denial) Tj
+T* (discovery lag combined with a record-only EMR and a lean 1–2 person billing team creates avoidable revenue) Tj
+T* (leakage. Addressing claim visibility without a costly EMR replacement is your highest-leverage move.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.604 0.204 0.071 rg
+48. 484. Td
+(RCM RISK ALERT — CRITICAL REVENUE RISK) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.486 0.176 0.071 rg
+48. 469. Td
+(Your denial discovery lag is a critical revenue risk. Industry benchmarks show practices with this profile lose a) Tj
+T* (significant percentage of collectible revenue annually. Prioritizing automated denial management or an RCM) Tj
+T* (audit is highly recommended.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.361 0.357 rg
+48. 414.5 Td
+(TOP 2 OPERATIONAL RISKS) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.067 0.11 0.11 rg
+48. 398.5 Td
+(1. Delayed Denial Visibility \(Denial lag -> Unworked AR and revenue leakage\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.216 0.267 0.267 rg
+48. 384.5 Td
+(Discovering denials 1–2 weeks after submission leaves claims sitting in accounts receivable past) Tj
+T* (optimal appeal windows. With only 1–2 billing staff, manual follow-up falls behind, turning) Tj
+T* (recoverable rejections into permanent write-offs.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.067 0.11 0.11 rg
+48. 334. Td
+(2. Record-Only EMR Bottleneck \(Manual workflows -> Lean staff overload\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.216 0.267 0.267 rg
+48. 320. Td
+(A record-only EMR forces your small admin team to manage billing, scrubbing, and payer follow-up outside the core) Tj
+T* (system. Because your team is not comfortable with AI tools, this manual workload cannot be easily absorbed without) Tj
+T* (dedicated RCM support.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.361 0.357 rg
+48. 265.5 Td
+(APPROXIMATE IMPACT RANGE \(INDUSTRY ESTIMATE\)) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.067 0.11 0.11 rg
+48. 250.5 Td
+($25,000 – $50,000/yr in recoverable revenue) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.29 0.349 0.349 rg
+48. 235.5 Td
+(This range reflects typical unworked denial rates and appeal-window leakage for independent practices with 1–2 week) Tj
+T* (discovery lags. It is an industry estimate based on operational benchmarks, not a financial guarantee.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.361 0.357 rg
+48. 195.5 Td
+(PRIORITY SOLUTION CATEGORY) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.067 0.11 0.11 rg
+48. 180.5 Td
+(Integrated RCM) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.216 0.267 0.267 rg
+48. 166.5 Td
+(Your clinicians are not burned out by charting, so an AI scribe is unnecessary. Prioritizing Integrated) Tj
+T* (RCM—specifically through an overlay or managed service—directly closes your 1–2 week denial lag and relieves) Tj
+T* (your 1–2 billing staff without triggering the high cost of a full EMR switch.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1089
+>>
+stream
+0.200025 w
+0.89 0.91 0.91 RG
+0.89 0.91 0.91 RG
+48. 740. m
+564. 740. l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.361 0.357 rg
+48. 722. Td
+(VENDOR-NEUTRAL RECOMMENDATIONS) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.29 0.349 0.349 rg
+48. 709. Td
+(Vendor-neutral recommendation — EMR Pulse is not affiliated with these vendors.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.29 0.349 0.349 rg
+48. 693. Td
+(Specific vendor recommendations are blurred on the web report until you submit your role and email address. Return to) Tj
+T* (your report page to unlock your tailored partner matches.) Tj
+ET
+0.89 0.91 0.91 RG
+48. 651. m
+564. 651. l
+S
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.361 0.357 rg
+48. 635. Td
+(Book a free 15-min diagnostic call with Mr. Ali.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.133 0.188 0.188 rg
+48. 622. Td
+(https://calendly.com/zahidshah343/30min) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 0.451 0.451 rg
+48. 604. Td
+(Built by Syed Zahid Ali \(Mr. Ali\) — sales leader connecting practices with the right EMR partners | linkedin.com/in/zahidshahh) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261114051545+05'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000006227 00000 n 
+0000008052 00000 n 
+0000000015 00000 n 
+0000000120 00000 n 
+0000004981 00000 n 
+0000005086 00000 n 
+0000006290 00000 n 
+0000006415 00000 n 
+0000006545 00000 n 
+0000006678 00000 n 
+0000006816 00000 n 
+0000006940 00000 n 
+0000007069 00000 n 
+0000007201 00000 n 
+0000007337 00000 n 
+0000007465 00000 n 
+0000007592 00000 n 
+0000007721 00000 n 
+0000007854 00000 n 
+0000007956 00000 n 
+0000008302 00000 n 
+0000008388 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <626A60E5F48F5796B9E0B969B3D88B3E> <626A60E5F48F5796B9E0B969B3D88B3E> ]
+>>
+startxref
+8492
+%%EOF
